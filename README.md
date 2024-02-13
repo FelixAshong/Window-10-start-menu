@@ -2,9 +2,6 @@
 
 Welcome to the GitHub repository of my Windows 10 Start Menu project. This project showcases the power of CSS grid in building complex and responsive layouts, specifically emulating the design and functionality of the Windows 10 Start Menu.
 
-## 🌐 Live Demo
-
-Check out the live demo of the Windows 10 Start Menu ➡️ [Live Demo](https://window10-start-menu-rahil1202.netlify.app/)
 
 ## 🚀 Features
 
@@ -25,7 +22,7 @@ Check out the live demo of the Windows 10 Start Menu ➡️ [Live Demo](https://
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rahil1202/windows-10-start-menu.git
+   git clone https://github.com/FelixAshong/Window-10-start-menu.git
    ```
 
 2. Navigate to the project directory:
